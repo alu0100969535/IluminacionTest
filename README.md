@@ -50,24 +50,30 @@ These three materials were downloaded from [Quixel Megascans](https://quixel.com
 
 #### Foliage
 
-Foliage placed
+There is two types of foliage in this game, the bushes and the trees. The bush mesh was obtained from the StarterContent from UnrealEngine and the trees were obtained from this [resource](https://unrealengine.com/marketplace/en-US/product/interactive-spruce-forest) in the UnrealEngine Marketplace.
+
+* TODO: Fotos de los bushes y de los arboles
 
 #### Props
 
-Props placed
+* TODO: Place rocks and other things in the map
 
 
 ## Player
 
-Some description of the player model
+The player model is the Countess from the game Paragon. It was downloaded from the [UnrealEngine Marketplace](https://unrealengine.com/marketplace/en-US/product/paragon-countess)
 
 ### Animations
 
-How the animations are arranged
+The model came with lots of animations, but we are using only a handful for the folling scenarios:
+ - movement
+ - attack
+
+* TODO: Fotos/gifs
 
 ### Actions
 
-What can this player do
+The player can move around the environment, interact with the doors and pickup the special object found in the house.
 
 ## Other blueprints
 
