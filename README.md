@@ -4,14 +4,14 @@
 
 - [x] Exterior and interior environments
 - [x] Use of streaming levels for instantiating the interior level
-- [] Use of a mirror object using a reflective material
-- [] Pickable object that affects the game mechanics
-- [] Interior environment clearly with deteriorated (old) look
+- [x] Use of a mirror object using a reflective material
+- [x] Pickable object that affects the game mechanics
+- [ ] Interior environment clearly with deteriorated (old) look
 - [x] Player starts near the interior enviroment in the exterior environment
 - [x] Exterior environment of medium size, limited by its design
 - [x] 3 Different materials for the landscape
-- [] Recognizable paths with intersections. When having the pickable objets some signs will appear
-- [] Game ending will be signaled in some way when reaching a spot
+- [x] Recognizable paths with intersections. When having the pickable objets some signs will appear
+- [x] Game ending will be signaled in some way when reaching a spot
 
 # Technical details
 
